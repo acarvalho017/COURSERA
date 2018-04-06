@@ -1,6 +1,5 @@
 # COURSERA
-Coursera curso 1
-*h2 Data Science Specialization
+*** Data Science Specialization
 
 * Uses R
 
